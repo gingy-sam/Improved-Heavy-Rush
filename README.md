@@ -6,3 +6,4 @@ Chat GPT 5.2
 
 Prompts Used:
 "I want to improve this heavy rush. Make it create multiple workers at once, and also make the heavy units prioritize the enemy's workers instead of the closest enemy."
+I found it very helpful because it helped me break down exactly what I wanted to change how the heavy rush worked.
